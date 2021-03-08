@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["shiplift"] = [{"text":"impl From&lt;Error&gt; for Error","synthetic":false,"types":[]},{"text":"impl From&lt;Error&gt; for Error","synthetic":false,"types":[]},{"text":"impl From&lt;Error&gt; for Error","synthetic":false,"types":[]},{"text":"impl From&lt;InvalidUri&gt; for Error","synthetic":false,"types":[]},{"text":"impl From&lt;Error&gt; for Error","synthetic":false,"types":[]},{"text":"impl From&lt;FromUtf8Error&gt; for Error","synthetic":false,"types":[]},{"text":"impl From&lt;TtyChunk&gt; for Vec&lt;u8&gt;","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
